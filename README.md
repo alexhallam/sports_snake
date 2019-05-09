@@ -5,7 +5,7 @@ A package that makes pulling sports schedules easy.
 #### Installation
 
 ```
-pip install sportsnake
+pip install sport_snake
 ```
 
 #### Prereqs
@@ -15,7 +15,7 @@ Must have API keys from [sportsdata.io](https://sportsdata.io/developers/getting
 #### Installation
 
 ```
-git clone https://github.com/alexhallam/sportsnake.git
+git clone https://github.com/alexhallam/sports_snake.git
 cd sportsnake
 # test install
 python run.py test
@@ -61,7 +61,7 @@ This is an unofficial package supporting [sportsdata.io](https://sportsdata.io/d
 
 #### Todo
 
-- [ ] Add NFL to pull
-- [ ] Add CFB to pull
+- [x] Add NFL to pull
+- [x] Add CFB to pull
 - [ ] Add NFL to cs
 - [ ] Add CFB to cs
