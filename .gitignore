@@ -1,0 +1,5 @@
+*.pyc
+*.csv
+api_list
+*.idea
+*.txt
