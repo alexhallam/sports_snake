@@ -2,11 +2,6 @@
 
 A package that makes pulling sports schedules easy. 
 
-#### Installation
-
-```
-pip install sport_snake
-```
 
 #### Prereqs
 
@@ -65,3 +60,4 @@ This is an unofficial package supporting [sportsdata.io](https://sportsdata.io/d
 - [x] Add CFB to pull
 - [ ] Add NFL to cs
 - [ ] Add CFB to cs
+- [ ] Make pip install
